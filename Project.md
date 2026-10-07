@@ -1,10 +1,10 @@
-Blinkit Sales Analysis
+## Blinkit Sales Analysis
 
 This project focuses on analyzing Blinkit sales data using Microsoft Excel to understand sales performance, product categories, outlet performance, and customer ratings.
 
 The analysis includes data cleaning, data organization, Pivot Tables, Pivot Charts, and an interactive dashboard to identify important business insights and trends.
 
-## Dataset Details: 
+# Dataset Details: 
 - <a href="https://github.com/Shwetham27/blinkit_sales_analysis/blob/main/Blinkit%20Analysis.xlsx">Dataset view</a>
 
 - Dashboard: <a href="https://github.com/Shwetham27/blinkit_sales_analysis/blob/main/Screenshot%202026-09-06%20204834.png"> Dashboard View</a>
